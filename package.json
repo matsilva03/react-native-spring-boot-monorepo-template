@@ -1,0 +1,13 @@
+{
+  "name": "quinto-semestre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:client": "pnpm --filter client start",
+    "start:server": "cd apps/server && ./mvnw spring-boot:run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

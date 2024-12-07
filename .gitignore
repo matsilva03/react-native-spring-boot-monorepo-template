@@ -1,0 +1,25 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Arquivos do sistema
+.DS_Store
+
+# Dependências e build do React Native
+apps/mobile/android/
+apps/mobile/ios/
+
+# Builds do Spring Boot
+apps/backend/target/
+
+# Arquivos específicos de IDEs
+*.iml
+.idea/
+.vscode/
+
+# Arquivos do PNPM
+pnpm-lock.yaml
+
